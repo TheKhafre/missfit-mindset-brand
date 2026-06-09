@@ -1,0 +1,15 @@
+{
+    "brand": {
+        "primary": "#002147",
+        "secondary": "#EECE95",
+        "accent": "#FFD500"
+    },
+    "ui": {
+        "background": "#FFFFFF",
+        "text": "#000000"
+    },
+    "meta": {
+        "description": "Brand color palette JSON file",
+        "updated_at": "2026-06-09"
+    }
+}
