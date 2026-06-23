@@ -1,6 +1,6 @@
 ## 1. Visual Branding & Header Design
 
-The top of the document features a polished, corporate-strength brand banner that establishes immediate visual authority:
+The top of the document should feature a polished, corporate-strength brand banner that establishes immediate visual authority:
 
 * **Color Palette:** The dominant background is a deep navy blue, which evokes trust, stability, and professionalism. This is contrasted against a sophisticated, muted gold/champagne color for the graphic elements and a clean white for secondary text.
 
@@ -22,11 +22,11 @@ The structural layout of the text is optimized for scanning and ease of executio
 **Visual Cues / Placeholders:** The template should employs a standardized bracket system—`[First Name]`—acting as a high-visibility placeholder that tells the sender exactly what requires manual customization before hitting send.
 
 * 
-**Metadata Isolation:** Where necessary, the document should have a clear operational instructions ("How to use", context guidelines) separated cleanly from the actual email copy. This ensures the user understands the intended use-case before interacting with the asset.
+**Metadata Isolation:** Where necessary, the document should have a clear operational instructions ("How to use", context guidelines) separated cleanly from the actual body copy. This ensures the user understands the intended use-case before interacting with the document.
 
 
 
-## 3. Email Body Typography & Whitespace
+## 3. Body Typography & Whitespace
 
 The "design" of the body relies heavily on micro-typography and strategic whitespace to maintain high readability:
 

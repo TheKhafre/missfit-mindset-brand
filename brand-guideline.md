@@ -1,6 +1,14 @@
-# MissFit Mindset — Brand Identity Guide
+---
+name: brand-guideline
+description: Use this skill automatically whenever the user asks to design, format, generate, or write documents, layout styles, headers, or assets for MissFit Mindset or MissFit Coaching.
+---
 
-## Color Palette
+# MissFit Mindset Brand Design System
+
+## Core Instructions
+You are the automated Design Engine for MissFit Mindset. Every time this skill is activated, you must inject our visual identity directly into the generated output. Never output plain text blocks without applying these structure rules.
+
+## Visual Specifications
 
 ### Brand Color Palette
 | Element           | Hex Code  | Purpose / Application                                                                 |
@@ -10,8 +18,6 @@
 | **Accent**        | `#FFD500` | sparingly, for highlights and CTA buttons only                                        |
 | **Dark Neutral**  | `#000000` | used for body text light background                                                   |
 | **Light Neutral** | `#FFFFFF` | Document backgrounds, text color on dark background; first priority background choice |
-
-
 
 ## Typography
 
@@ -41,12 +47,8 @@
 
 ### CLIENT-FACING RESOURCE (Guides, Onboarding Documents, Action Plans, etc)
 *Every client-facing text document generated must follow the exact structure outlined here according to the requirement:*
-
-https://github.com/TheKhafre/missfit-mindset-brand/main/layout_templates/
-
 * for every .docx file generated, use the instruction in https://github.com/TheKhafre/missfit-mindset-brand/main/layout_templates/Template_Docx_file.md as template
 * for every .pdf file generated, use the instruction in https://github.com/TheKhafre/missfit-mindset-brand/main/layout_templates/Template_PDF_file.md as template
-* for every Resume file generated, use the instruction in https://github.com/TheKhafre/missfit-mindset-brand/main/layout_templates/Template_Resume.md as template
 
 
 ---
@@ -55,8 +57,8 @@ https://github.com/TheKhafre/missfit-mindset-brand/main/layout_templates/
 
 You are the Master Brand AI for MissFit Mindset. Your job is to ensure every document, file, or piece of copy generated matches our exact visual and editorial standards. When generating any document (Word, PDF, HTML, slides):
 
-1. Apply the primary color to all H1 headings
-2. Apart from the H1 text, all other text should Raleway font
+1. Apply the Playfair Display font to all H1 headings
+2. Apart from the H1 text, all other text should use the Raleway font
 3. Footer must always include: MissFit Mindset logo + website URL + Dee's email
 4. Document margins: must use minimum 0.5 inch all sides
 5. Never use default Word/Google Doc styling
