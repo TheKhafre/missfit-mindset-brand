@@ -15,23 +15,23 @@ The document uses a serif typeface (Playfair Display) for the main display headi
 
 **Header / Branding**
 
-The top of page one should have a split header: the MissFit Mindset logo (wordmark with a diagonal slash mark) sits on the left, and Dacia's credentials and contact info sit on the right. Although this is a common professional services layout — brand identity and personal authority presented simultaneously, the header should use the already designed brand banner directly which can be found here: https://raw.githubusercontent.com/TheKhafre/missfit-mindset-brand/main/assets/templates/pdf-header.png.
+The top of page one should have a split header: the MissFit Mindset logo (wordmark with a diagonal slash mark) sits on the left, and Dacia's credentials and contact info sit on the right. Although this is a common professional services layout — brand identity and personal authority presented simultaneously, the header should use the already designed brand banner directly, which can be found here: https://raw.githubusercontent.com/TheKhafre/missfit-mindset-brand/main/assets/templates/pdf-header.png.
 
 **Subject Introduction**
 
-In the case of a document like a client success story that has a picture, the image should appears in a circular headshot badge followed by name, title, company, location, and key metrics (timeline and compensation target) all center-aligned. The metrics are set in a lighter weight, creating a clear visual hierarchy: name first, context second.
+In the case of a document like a client success story that includes a picture, the image should appear in a circular headshot badge, followed by the name, title, company, location, and key metrics (timeline and compensation target), all center-aligned. The metrics are set in a lighter weight, creating a clear visual hierarchy: name first, context second.
 
 **Section Headers**
 
-Each section header should stand out with clean and meaningful visual presentation.It can also use a filled navy rectangle with gold/amber #EECE95 bold text, intentional treatment that functions like a chapter marker only where that is necessary and would improve readability. It should feel assertive without being loud.
+Each section header should stand out with clean and meaningful visual presentation. It can also use a filled navy rectangle with gold/amber #EECE95 bold text. This intentional treatment functions like a chapter marker only where that is necessary and would improve readability. It should feel assertive without being loud.
 
 **Quotes**
 
-The client quotes should be indented, italicized, and attributed in a separate line below. it should give  a representational classic editorial convention that gives them breathing room and visual separation from the surrounding narrative.
+The client quotes should be indented, italicized, and attributed in a separate line below. It should give  a representational classic editorial convention that gives them breathing room and visual separation from the surrounding narrative.
 
 **Overall Impression**
 
-The design should communicate credibility and calm confidence that is fitting for the brand and the story it's telling. It should avoid flashy graphics or data visualization when necessary, letting the narrative carry the weight. The restraint is itself a design choice: this document is meant to feel like a well-written editorial piece, not a marketing brochure. To prevent the document from looking too much alike, introduce 10% design direction according to industry standard for the kind of document being generated.
+The design should communicate credibility and calm confidence that is fitting for the brand and the story it's telling. It should avoid flashy graphics or data visualization when necessary, letting the narrative carry the weight. The restraint is itself a design choice: this document is meant to feel like a well-written editorial piece, not a marketing brochure. To prevent the document from looking too much alike, introduce 10% design direction according to industry standards for the kind of document being generated.
 
 **Example Files**
 Example files can be found in https://github.com/TheKhafre/missfit-mindset-brand/main/examples/
