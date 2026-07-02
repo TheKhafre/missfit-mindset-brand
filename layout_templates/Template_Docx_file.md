@@ -10,7 +10,7 @@ The top of the document should feature a polished, corporate-strength brand bann
 
 * **Graphic Accents:** Subtle vertical and diagonal lines segment the banner, creating an organized, grid-like division between corporate branding (left) and direct contact coordinates (right).
 ---
-There is no reason to recreate the banner, the document header can be found at https://raw.githubusercontent.com/TheKhafre/missfit-mindset-brand/main/assets/templates/docx-header_primary.png
+There is no reason to recreate the banner; the document header can be found at https://raw.githubusercontent.com/TheKhafre/missfit-mindset-brand/main/assets/templates/docx-header_primary.png
 ---
 
 
@@ -19,10 +19,10 @@ There is no reason to recreate the banner, the document header can be found at h
 The structural layout of the text is optimized for scanning and ease of execution:
 
 * 
-**Visual Cues / Placeholders:** The template should employs a standardized bracket system—`[First Name]`—acting as a high-visibility placeholder that tells the sender exactly what requires manual customization before hitting send.
+**Visual Cues / Placeholders:** The template should employ a standardized bracket system—`[First Name]`—acting as a high-visibility placeholder that tells the sender exactly what requires manual customization before hitting send.
 
 * 
-**Metadata Isolation:** Where necessary, the document should have a clear operational instructions ("How to use", context guidelines) separated cleanly from the actual body copy. This ensures the user understands the intended use-case before interacting with the document.
+**Metadata Isolation:** Where necessary, the document should have clear operational instructions ("How to use", context guidelines) separated cleanly from the actual body copy. This ensures the user understands the intended use-case before interacting with the document.
 
 
 
@@ -31,7 +31,7 @@ The structural layout of the text is optimized for scanning and ease of executio
 The "design" of the body relies heavily on micro-typography and strategic whitespace to maintain high readability:
 
 * 
-**Short Paragraph Rhythms:** Rather than presenting walls of text, the template breaks copy into bite-sized, 1-to-2 sentence blocks. This creates an open vertical rhythm that prevents cognitive fatigue for the reader.
+**Short Paragraph Rhythms:** Rather than presenting walls of text, the template should break copy into bite-sized, 1-to-2 sentence blocks. This creates an open vertical rhythm that prevents cognitive fatigue for the reader.
 
 
 * 
@@ -44,4 +44,4 @@ The "design" of the body relies heavily on micro-typography and strategic whites
 The signature at the bottom mirrors the clean, structured aesthetic introduced in the header banner:
 
 * 
-**Minimalist Dividers:** The use of vertical pipe characters (`|`) to separate credentials (`MBA, SHRM-SPC, NRWA, ICF`) and contact channels (`Email | Phone | Web`) in a classic minimalist design technique. ensure a cleans up data delivery, keeping the text block tightly aligned and highly legible without requiring a cluttered bulleted list.
+**Minimalist Dividers:** The use of vertical pipe characters (`|`) to separate credentials (`MBA, SHRM-SPC, NRWA, ICF`) and contact channels (`Email | Phone | Web`) in a classic minimalist design technique. Ensure a cleans up data delivery, keeping the text block tightly aligned and highly legible without requiring a cluttered bulleted list.
